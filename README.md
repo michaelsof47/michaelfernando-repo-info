@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Fernando</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Mobile%20Apps%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-Data%20Scientist-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Flutter, Kotlin, and Node.JS**
+- 🌱 I’m currently learning **Mobile, Web, and Data**
 - 👨‍💻 Portfolio: [michaelsof47.github.io](https://michaelsof47.github.io)
 - 💬 Ask me about **Flutter or Android Development**
 - 📫 Contact: **michaelfernando784@gmail.com**
