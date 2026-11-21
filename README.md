@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/GO-6DA55F?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6DA55F?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=white" />
 </p>
 
 **Tools & Databases**
