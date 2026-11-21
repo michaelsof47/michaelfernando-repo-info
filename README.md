@@ -15,7 +15,7 @@
 - 💬 Ask me about **Flutter or Android Development**
 - 📫 Contact: **michaelfernando784@gmail.com**
 - 📄 LinkedIn: [Michael Fernando](https://www.linkedin.com/in/michael-fernando-s-m-94264b117/)
-- ⚡ Fun fact: **I'm a Pendulum Yugioh Duelist**
+- ⚡ Fun fact: **I'm a Pendulum Yugioh Duelist & Like Touring by Motorcycle**
 
 ### 🤝 Connect with me:
 <p align="left">
